@@ -201,9 +201,9 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(b4.webp);
+	background-image: url(images/cod_4.jpeg);
 	background-size: cover;
-	background-position: top center;
+	background-position:  center; /* top center - positions a pic*/
 	position: relative;
 	z-index: 1;
 }
